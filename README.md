@@ -36,4 +36,26 @@ assets/
 └── geminiirgi.jpg
 ```
 
-## Tampilan 
+## Tampilan Aplikasi
+
+### Tampilan Utama
+![Tampilan_Utama](images/tampilan_utama.png)
+
+### Edit Profile
+![Edit_Profile](images/edit_profile.png)
+
+### Tema
+![Tema](images/tema.png)
+
+### Tentang Aplikasi
+![Tentang Aplikasi](images/tentang_aplikasi.png)
+
+## Pembuat
+Nama: Irgi Rangga Saputra
+
+Departement: Teknik Informatika - Universitas Teknologi Bandung
+
+## Lisensi
+Proyek ini dibuat untuk tujuan pembelajaran dan latihan Flutter.
+Bebas digunakan atau dimodifikasi untuk kebutuhan akademik dan eksperimen pribadi.
+
